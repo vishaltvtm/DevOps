@@ -13,3 +13,9 @@
 ```bash
 cd docker
 docker compose up --build
+```
+
+## k8s deployment 
+```bash
+kubectl apply -f ./k8s
+```
